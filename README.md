@@ -1,4 +1,4 @@
-# RAG Agent with Gemini and PDF Knowledge Base
+# RAG Agent with Gemini and PDF Knowledge Base                                                                        -- Vishal Yadav 
 
 This project demonstrates a Retrieval-Augmented Generation (RAG) agent using the Phi framework, Gemini model, and a PostgreSQL-backed vector database for efficient knowledge retrieval from PDF documents. Additionally, it integrates the DuckDuckGo search tool for web-based queries.
 
